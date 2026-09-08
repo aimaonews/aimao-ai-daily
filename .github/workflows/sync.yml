@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: 检出仓库代码
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: 配置 Python 环境
         uses: actions/setup-python@v5

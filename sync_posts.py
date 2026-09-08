@@ -162,11 +162,11 @@ def git_commit_and_push(repo_dir: str):
     branch_res = subprocess.run(["git", "branch", "--show-current"], capture_output=True, text=True)
     branch = branch_res.stdout.strip() or "main"
 
-    # 执行提交与推送
+    # 执行提交与推送 (使用 HEAD:branch 兼容 detached HEAD 环境)
     commands = [
         ["git", "add", "README.md"],
         ["git", "commit", "-m", f"chore(sync): auto-sync latest posts ({now_str}) [skip ci]"],
-        ["git", "push", "origin", branch]
+        ["git", "push", "origin", f"HEAD:{branch}"]
     ]
 
     for cmd in commands:
