@@ -20,11 +20,12 @@ from datetime import datetime
 # WordPress REST API 地址（支持通过环境变量覆盖）
 WP_API_URL = os.environ.get("WP_API_URL", "https://www.aimao.today/wp-json/wp/v2/posts?per_page=10")
 
-# 仓库本地路径（Hermes 克隆的仓库根目录）
-REPO_DIR = os.environ.get("REPO_DIR", "/opt/data/yangmaozhang/aimao-ai-daily")
+# 仓库本地路径（若在 GitHub Actions 中默认当前目录，若在宿主机默认目标路径）
+DEFAULT_REPO = "." if os.environ.get("GITHUB_ACTIONS") == "true" else "/opt/data/yangmaozhang/aimao-ai-daily"
+REPO_DIR = os.environ.get("REPO_DIR", DEFAULT_REPO)
 README_PATH = os.path.join(REPO_DIR, "README.md")
 
-# 摘要最大字数 (控制在 100~150 字以内，避免全文搬运反客为主)
+# 摘要最大字数
 SUMMARY_MAX_LENGTH = 140
 
 # 占位符标记
@@ -138,6 +139,11 @@ def git_commit_and_push(repo_dir: str):
     print(f"[*] 检查 Git 仓库变动: {repo_dir}")
     os.chdir(repo_dir)
 
+    # 如果运行在 GitHub Actions 虚拟环境中，自动设置 git 作者信息
+    if os.environ.get("GITHUB_ACTIONS") == "true":
+        subprocess.run(["git", "config", "user.name", "github-actions[bot]"], check=False)
+        subprocess.run(["git", "config", "user.email", "github-actions[bot]@users.noreply.github.com"], check=False)
+
     # 检查 README.md 是否有改动 (不管是 modified 还是 untracked)
     status_res = subprocess.run(
         ["git", "status", "--porcelain", "README.md"],
@@ -176,7 +182,7 @@ def git_commit_and_push(repo_dir: str):
 
 
 def main():
-    print(f"=== AI猫 (aimao.today) GitHub 自动化外链同步开始 [{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] ===")
+    print("=== AI猫 (aimao.today) GitHub 自动化外链同步开始 ===")
     posts = fetch_latest_posts(WP_API_URL)
     if not posts:
         print("[!] 获取文章列表为空或失败，流程终止。")
