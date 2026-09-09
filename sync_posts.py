@@ -155,7 +155,7 @@ def git_commit_and_push(repo_dir: str):
         res_name = subprocess.run(["git", "config", "user.name"], capture_output=True, text=True)
         if not res_name.stdout.strip():
             subprocess.run(["git", "config", "user.name", "AI猫"], check=False)
-            subprocess.run(["git", "config", "user.email", "rootaimao@proton.me"], check=False)
+            subprocess.run(["git", "config", "user.email", "326571965+aimaonews@users.noreply.github.com"], check=False)
 
     # 检查 README.md 是否有改动 (不管是 modified 还是 untracked)
     status_res = subprocess.run(

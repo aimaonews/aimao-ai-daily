@@ -29,5 +29,6 @@ jobs:
       - name: 执行自动化同步脚本
         env:
           WP_API_URL: https://www.aimao.today/wp-json/wp/v2/posts?per_page=10
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python3 sync_posts.py
