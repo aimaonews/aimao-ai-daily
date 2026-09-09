@@ -20,8 +20,8 @@ from datetime import datetime
 # WordPress REST API 地址（支持通过环境变量覆盖）
 WP_API_URL = os.environ.get("WP_API_URL", "https://www.aimao.today/wp-json/wp/v2/posts?per_page=10")
 
-# 仓库本地路径（若在 GitHub Actions 中默认当前目录，若在宿主机默认目标路径）
-DEFAULT_REPO = "." if os.environ.get("GITHUB_ACTIONS") == "true" else "/opt/data/yangmaozhang/aimao-ai-daily"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+DEFAULT_REPO = SCRIPT_DIR if os.path.exists(os.path.join(SCRIPT_DIR, "README.md")) else ("/opt/data/yangmaozhang/aimao-ai-daily" if os.path.exists("/opt/data/yangmaozhang/aimao-ai-daily") else ".")
 REPO_DIR = os.environ.get("REPO_DIR", DEFAULT_REPO)
 README_PATH = os.path.join(REPO_DIR, "README.md")
 
@@ -102,6 +102,11 @@ def format_markdown(posts: list) -> str:
     return "\n".join(lines).strip()
 
 
+def strip_dynamic_comment(text: str) -> str:
+    """去除更新时间等动态注释，以便纯粹比对文章正文内容"""
+    return re.sub(r"<!--\s*最后更新时间:[^>]*-->", "", text).strip()
+
+
 def update_readme(readme_file: str, new_content: str) -> bool:
     """更新 README.md 中的动态占位区"""
     if not os.path.isfile(readme_file):
@@ -116,16 +121,19 @@ def update_readme(readme_file: str, new_content: str) -> bool:
         re.MULTILINE
     )
 
-    if not pattern.search(content):
+    match = pattern.search(content)
+    if not match:
         print(f"[!] README.md 中缺少定位标记: {START_MARKER} ... {END_MARKER}")
+        return False
+
+    # 比对新旧文章列表正文（忽略最后更新时间戳）
+    old_section = match.group(2)
+    if strip_dynamic_comment(old_section) == strip_dynamic_comment(new_content):
+        print("[*] 文章列表内容无变动（所有文章均已是最新的），无需覆写或提交。")
         return False
 
     replacement = f"{START_MARKER}\n\n{new_content}\n\n{END_MARKER}"
     updated_content = pattern.sub(replacement, content)
-
-    if updated_content == content:
-        print("[*] README 内容无变动，无需覆写。")
-        return False
 
     with open(readme_file, "w", encoding="utf-8") as f:
         f.write(updated_content)
@@ -139,10 +147,15 @@ def git_commit_and_push(repo_dir: str):
     print(f"[*] 检查 Git 仓库变动: {repo_dir}")
     os.chdir(repo_dir)
 
-    # 如果运行在 GitHub Actions 虚拟环境中，自动设置 git 作者信息
+    # 设置 git 作者信息（若尚未配置）
     if os.environ.get("GITHUB_ACTIONS") == "true":
         subprocess.run(["git", "config", "user.name", "github-actions[bot]"], check=False)
         subprocess.run(["git", "config", "user.email", "github-actions[bot]@users.noreply.github.com"], check=False)
+    else:
+        res_name = subprocess.run(["git", "config", "user.name"], capture_output=True, text=True)
+        if not res_name.stdout.strip():
+            subprocess.run(["git", "config", "user.name", "AI猫"], check=False)
+            subprocess.run(["git", "config", "user.email", "rootaimao@proton.me"], check=False)
 
     # 检查 README.md 是否有改动 (不管是 modified 还是 untracked)
     status_res = subprocess.run(
@@ -162,11 +175,15 @@ def git_commit_and_push(repo_dir: str):
     branch_res = subprocess.run(["git", "branch", "--show-current"], capture_output=True, text=True)
     branch = branch_res.stdout.strip() or "main"
 
+    # 支持 GITHUB_TOKEN / GH_TOKEN 鉴权
+    token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
+    push_remote = f"https://x-access-token:{token}@github.com/aimaonews/aimao-ai-daily.git" if token else "origin"
+
     # 执行提交与推送 (使用 HEAD:branch 兼容 detached HEAD 环境)
     commands = [
         ["git", "add", "README.md"],
         ["git", "commit", "-m", f"chore(sync): auto-sync latest posts ({now_str}) [skip ci]"],
-        ["git", "push", "origin", f"HEAD:{branch}"]
+        ["git", "push", push_remote, f"HEAD:{branch}"]
     ]
 
     for cmd in commands:
