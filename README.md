@@ -24,7 +24,17 @@
 
 <!-- POST-LIST:START -->
 
-<!-- 最后更新时间: 2026-09-09 06:16:41 (UTC+8) -->
+<!-- 最后更新时间: 2026-09-09 17:04:54 (UTC+8) -->
+
+### 📌 Travis Kalanick 的 Atoms 或被进军机器人出租车业务
+- **发布日期**：`2026-09-09`
+- **内容摘要**：Travis Kalanick 的 AI 初创公司 Atoms 在获得 17 亿美元融资后，据《金融时报》报道正计划进军机器人出租车市场，已与 Uber 讨论技术合作。 今年早些时候，Travis Kalanick 创立的 Atoms 宣布完成了一轮由 Andreessen Ho...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1500.html)
+
+### 📌 2026-09-09 AI日报：OpenAI N-S方程与图像2.5
+- **发布日期**：`2026-09-09`
+- **内容摘要**：1 要闻 OpenAI 发布 Navier–Stokes 方程 AI 解法 #1 OpenAI 发布 Navier–Stokes 千禧年难题的解答：初始光滑、静止的流体可在光滑外力作用下，于有限时间内形成奇点，且总能量保持有限。该结论由尚未发布的下一代内部模型驱动约一万个智能体协...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1503.html)
 
 ### 📌 AI 编程公司 Cognition 估值 480 亿美元，年化收入达 9 亿
 - **发布日期**：`2026-09-09`
@@ -65,16 +75,6 @@
 - **发布日期**：`2026-09-07`
 - **内容摘要**：AI 助手要想真正有用，首先需要了解你很多。但 Ollie —— 一款面向日常生活的个人 AI 助手 —— 正押注隐私保护能帮助它在激烈的 AI 助手竞争中脱颖而出。 虽然一些企业级 AI 助手有数据隐私保护措施，但 Ollie 是首批将端到端加密作为核心卖点的主流消费者 AI...
 - **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1470.html)
-
-### 📌 APInex 免费模型平台，支持 Gemini/GLM/DeepSeek/GPT 等模型，上下文长达 1M
-- **发布日期**：`2026-09-07`
-- **内容摘要**：Linux Do 社区用户分享了一个免费 AI 模型平台 APInex（apinex.bond/models），提供多款免费模型，上下文长度最高达 1M。 支持的免费模型列表： Gemini 3.8 Flash Muse Spark 1.3 GLM 5.3 Flash Gemin...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1465.html)
-
-### 📌 每日免费 1M Token！支持 Gemini/GLM/DeepSeek/GPT 等多模型
-- **发布日期**：`2026-09-07`
-- **内容摘要**：NodeLoc 社区用户分享了一个每日免费 1M Token 的 API 服务，支持多款主流模型，Google 登录即可使用。 支持的模型包括： Gemini Flash 3.8 Gemini 3.1 Pro GLM 5.3 Flash DeepSeek V4 Flash Dee...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1464.html)
 
 <!-- POST-LIST:END -->
 
