@@ -24,12 +24,17 @@
 
 <!-- POST-LIST:START -->
 
-<!-- 最后更新时间: 2026-09-10 18:12:51 (UTC+8) -->
+<!-- 最后更新时间: 2026-09-11 00:11:32 (UTC+8) -->
 
 ### 📌 2026-09-10 AI日报：DeepSeek 计划发布 V4.1 Flash
 - **发布日期**：`2026-09-10`
 - **内容摘要**：AI 早报 2026-09-10 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 计划9月10日前后正式发布 V4.1 Flash ↗ #1 Tibo 称或暂停新的 ChatGPT Pro 订阅 ↗ #2 OpenAI 修复 Codex 用量额度意外重置异常...
 - **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1527.html)
+
+### 📌 CodeCraft API 白嫖福利：每月 1 亿 tokens，免费送一年！
+- **发布日期**：`2026-09-10`
+- **内容摘要**：每月 1 亿 tokens 免费领取，持续一年！支持 Claude、Gemini、GPT 全系模型，在线聊天、查看用量明细都可以。 NodeLoc 社区分享了一个白嫖福利——CodeCraft API 推出限时活动，使用折扣码 DEVWEEK 可领取免费 Basic 计划，每月...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1532.html)
 
 ### 📌 Apple 折叠屏铰链用 AI 和 3D 打印制造，详解 iPhone Duo 的工艺突破
 - **发布日期**：`2026-09-10`
@@ -70,11 +75,6 @@
 - **发布日期**：`2026-09-10`
 - **内容摘要**：曾在 OpenAI 和 Anthropic 工作三年的研究员 Jacob Coxon 辞职，警告自我进化的 AI 模型可能「在十年内杀死我们所有人」，批评两家公司未能负责任地行事。 一位 Anthropic 研究员因担心不受约束的自我进化 AI 模型的开发最终会导致我们全部死亡而...
 - **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1511.html)
-
-### 📌 OpenAI 任命 AI「末日论者」Paul Christiano 加入董事会安全委员会
-- **发布日期**：`2026-09-10`
-- **内容摘要**：AI 对齐研究先驱 Paul Christiano 加入 OpenAI 基金会董事会安全委员会，他公开表示 AI 能力的快速提升可能导致「灾难性且不可逆的失控」。 有影响力的 AI 研究员 Paul Christiano 于周三加入 OpenAI 基金会董事会。这位专注于保持 A...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1509.html)
 
 <!-- POST-LIST:END -->
 
