@@ -24,7 +24,12 @@
 
 <!-- POST-LIST:START -->
 
-<!-- 最后更新时间: 2026-09-10 16:32:46 (UTC+8) -->
+<!-- 最后更新时间: 2026-09-10 18:12:51 (UTC+8) -->
+
+### 📌 2026-09-10 AI日报：DeepSeek 计划发布 V4.1 Flash
+- **发布日期**：`2026-09-10`
+- **内容摘要**：AI 早报 2026-09-10 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 DeepSeek 计划9月10日前后正式发布 V4.1 Flash ↗ #1 Tibo 称或暂停新的 ChatGPT Pro 订阅 ↗ #2 OpenAI 修复 Codex 用量额度意外重置异常...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1527.html)
 
 ### 📌 Apple 折叠屏铰链用 AI 和 3D 打印制造，详解 iPhone Duo 的工艺突破
 - **发布日期**：`2026-09-10`
@@ -70,11 +75,6 @@
 - **发布日期**：`2026-09-10`
 - **内容摘要**：AI 对齐研究先驱 Paul Christiano 加入 OpenAI 基金会董事会安全委员会，他公开表示 AI 能力的快速提升可能导致「灾难性且不可逆的失控」。 有影响力的 AI 研究员 Paul Christiano 于周三加入 OpenAI 基金会董事会。这位专注于保持 A...
 - **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1509.html)
-
-### 📌 Azure学生账户白嫖100刀免费额度，可开GPT-6-Astra和GPT-5.6-Sol
-- **发布日期**：`2026-09-09`
-- **内容摘要**：社区分享：Azure for Students 学生账户白嫖 100 美元免费额度，无需信用卡即可开通，可部署 GPT-6-Astra 和 GPT-5.6-Sol 等最新模型，配额能拉到 1M TPM。 Azure for Students 是微软为学生提供的免费云服务计划，只要...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1505.html)
 
 <!-- POST-LIST:END -->
 
