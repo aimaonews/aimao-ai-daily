@@ -157,6 +157,9 @@ def git_commit_and_push(repo_dir: str):
             subprocess.run(["git", "config", "user.name", "AI猫"], check=False)
             subprocess.run(["git", "config", "user.email", "326571965+aimaonews@users.noreply.github.com"], check=False)
 
+    # 避免部分代理或网络环境下 HTTP/2 协议层握手异常
+    subprocess.run(["git", "config", "http.version", "HTTP/1.1"], check=False)
+
     # 检查 README.md 是否有改动 (不管是 modified 还是 untracked)
     status_res = subprocess.run(
         ["git", "status", "--porcelain", "README.md"],
