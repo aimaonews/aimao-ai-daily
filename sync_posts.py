@@ -142,6 +142,25 @@ def update_readme(readme_file: str, new_content: str) -> bool:
     return True
 
 
+def git_pull_latest(repo_dir: str):
+    """拉取远端最新提交，避免冲突"""
+    try:
+        os.chdir(repo_dir)
+        subprocess.run(["git", "config", "http.version", "HTTP/1.1"], check=False)
+        branch_res = subprocess.run(["git", "branch", "--show-current"], capture_output=True, text=True)
+        branch = branch_res.stdout.strip() or "main"
+        token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
+        remote = f"https://x-access-token:{token}@github.com/aimaonews/aimao-ai-daily.git" if token else "origin"
+        print(f"[*] 正在拉取远端最新代码 ({branch})...")
+        res = subprocess.run(["git", "pull", "--rebase", remote, branch], capture_output=True, text=True)
+        if res.returncode != 0:
+            print(f"[!] git pull 提示: {res.stderr.strip() or res.stdout.strip()}")
+        else:
+            print(f"[+] 远端代码拉取完成: {res.stdout.strip()}")
+    except Exception as e:
+        print(f"[!] git pull 发生异常: {e}")
+
+
 def git_commit_and_push(repo_dir: str):
     """检测 Git 变动并执行提交与推送"""
     print(f"[*] 检查 Git 仓库变动: {repo_dir}")
@@ -203,6 +222,7 @@ def git_commit_and_push(repo_dir: str):
 
 def main():
     print("=== AI猫 (aimao.today) GitHub 自动化外链同步开始 ===")
+    git_pull_latest(REPO_DIR)
     posts = fetch_latest_posts(WP_API_URL)
     if not posts:
         print("[!] 获取文章列表为空或失败，流程终止。")
