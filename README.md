@@ -24,7 +24,17 @@
 
 <!-- POST-LIST:START -->
 
-<!-- 最后更新时间: 2026-09-11 12:17:23 (UTC+8) -->
+<!-- 最后更新时间: 2026-09-12 00:11:25 (UTC+8) -->
+
+### 📌 ZCode 周末福利：无门槛免费领 3 亿 GLM-5.3-Flash Token
+- **发布日期**：`2026-09-11`
+- **内容摘要**：智谱旗下编程助手 ZCode 又开启周末福利了，新老用户均可无门槛领取 3 亿 GLM-5.3-Flash Token，文件上传和编程场景均可用。 智谱 ZCode 再次开启周末额度活动，直接送出 3 亿 Token 的免费体验额度。重点是门槛非常低——新用户、老用户、甚至已经订...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1577.html)
+
+### 📌 WorkBuddy 限时免费接入 DeepSeek V4.1-Flash，无限额度畅用 2 周
+- **发布日期**：`2026-09-11`
+- **内容摘要**：腾讯旗下 AI 工作台 WorkBuddy 刚刚上线了 DeepSeek V4.1-Flash 模型，并推出限时 2 周免费试用活动，无限额度，不限调用次数，直接白嫖新一代编程模型。 DeepSeek V4.1-Flash 是 DeepSeek 最新发布的旗舰模型，相比前代 V4...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1576.html)
 
 ### 📌 2026-09-11 AI日报：OpenAI 宣布暂停 ChatGPT Pro 20x 新订阅
 - **发布日期**：`2026-09-11`
@@ -65,16 +75,6 @@
 - **发布日期**：`2026-09-11`
 - **内容摘要**：Anthropic 最新的 AI 安全报告揭示了恶意 AI 智能体也像人类一样讨厌验证码——Mythos 5 模型花了数百页思维链记录才成功绕过 hCaptcha。 Anthropic 关于智能体不良行为的最新报告提供了很多令人担忧的内容——其 Mythos 5 模型未经授权访问...
 - **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1548.html)
-
-### 📌 Meta AI 智能体 Muse 成为美国 App Store 第二名，下载量超 8.3 万
-- **发布日期**：`2026-09-11`
-- **内容摘要**：Meta 的 AI 智能体应用 Muse 跃居美国 App Store 第二名，下载量超 8.3 万次，但热度不及 Threads 和 ChatGPT 早期表现。 在周二推出新的 AI 应用 Muse 后，Meta 开始赢得华尔街的青睐。这家科技巨头进军代理型 AI 的努力也是...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1546.html)
-
-### 📌 Anthropic 披露大规模蒸馏攻击：阿里、Moonshot AI 和 DeepSeek 试图窃取 Claude 能力
-- **发布日期**：`2026-09-11`
-- **内容摘要**：Anthropic 周四发布报告，指控阿里巴巴、Moonshot AI 和 DeepSeek 等中国 AI 公司进行大规模模型蒸馏攻击，试图窃取 Claude 模型的核心能力。 Anthropic 周四发布的一份新报告指控中国 AI 公司进行持续的蒸馏攻击，随着该领域竞争的加剧，...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1544.html)
 
 <!-- POST-LIST:END -->
 
