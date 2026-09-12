@@ -24,9 +24,9 @@
 
 <!-- POST-LIST:START -->
 
-<!-- 最后更新时间: 2026-09-12 18:20:04 (UTC+8) -->
+<!-- 最后更新时间: 2026-09-12 18:13:43 (UTC+8) -->
 
-### 📌 2026-09-12 AI日报：Kimi K2.8 Preview上线，Nvidia拟百亿美元投资Anthropic IPO
+### 📌 Kimi K2.8 Preview 上线，Nvidia 拟投 Anthropic IPO — AI日报 2026-09-12
 - **发布日期**：`2026-09-12`
 - **内容摘要**：1 要闻 1.1 Kimi K2.8 Preview 全量上线 Kimi Code Kimi K2.8 Preview 现已全量上线 Kimi Code，综合性能接近 K3，全部会员档位开放最高 1M 上下文。 1.2 DeepSeek 调整 V4 Pro API 下线计划 9月...
 - **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1605.html)
@@ -56,25 +56,25 @@
 - **内容摘要**：Meta 最新推出的个人 AI 智能体 Muse 正式上线，每周赠送约 1 亿 Token 的免费额度，每个用户还配备独立虚拟机。需要美区 IP 才能使用。 Meta 的 AI 智能体 Muse 现已发布，与其他 AI 个人助手不同，Muse 被设计成「真正能帮用户办事」的 AI...
 - **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1591.html)
 
-### 📌 AI数据中心创业公司Nscale聘请前OpenAI高管Fidji Simo加入董事会，IPO在即
-- **发布日期**：`2026-09-12`
-- **内容摘要**：英国AI数据中心创业公司Nscale任命前OpenAI、Meta、Instacart高管Fidji Simo加入董事会，为潜在IPO做准备。 总部位于英国的AI数据中心创业公司Nscale已任命前OpenAI、Meta和Instacart高管Fidji Simo加入董事会，为潜在...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1589.html)
-
 ### 📌 月之暗面定下激进目标：Kimi年化收入冲击20亿美元
 - **发布日期**：`2026-09-12`
 - **内容摘要**：月之暗面（Moonshot AI）定下激进营收目标：Kimi助手年化收入要在明年底冲击20亿美元，这家中国AI明星公司正加速商业化。 中国最知名的AI实验室之一月之暗面（Moonshot AI）相信，它能够将自家热门的开源模型转化为可观的收入：据知情人士透露，Kimi的母公司正瞄...
 - **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1588.html)
 
-### 📌 OpenAI与数学界矛盾升级：25位顶尖数学家签署公开信抗议
-- **发布日期**：`2026-09-12`
-- **内容摘要**：25位顶尖数学家联名签署公开信，抗议AI实验室未经许可使用数学论文和问题集训练模型，OpenAI与数学界的争端持续升级。 25位顶尖数学家联名签署了一封公开信，抗议AI实验室正在威胁他们的智力劳动成果——这标志着OpenAI与数学界之间的争端正在升级。 这封由纽约大学和麻省理工学...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1587.html)
-
 ### 📌 YC掌门人Garry Tan：美国开源AI实验室也该有权蒸馏前沿模型
 - **发布日期**：`2026-09-12`
 - **内容摘要**：Y Combinator CEO Garry Tan公开呼吁：美国开源AI实验室也应该被允许蒸馏前沿模型，当前政策「前后矛盾」。 当谈到中国AI实验室使用蒸馏技术从前沿模型制造者那里提取知识时，Y Combinator CEO Garry Tan有自己的看法——他希望美国开源AI...
 - **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1586.html)
+
+### 📌 Sequoia领投机器人训练数据公司Mecka AI，估值逼近5亿美元
+- **发布日期**：`2026-09-12`
+- **内容摘要**：Mecka AI，专注采集和分析人体运动数据以训练人形机器人的创业公司，正在由Sequoia Capital领投的一轮融资中接近5亿美元估值。 Mecka AI，一家专注于采集和分析人体运动数据以训练人形机器人及其他机器人的创业公司，正在由Sequoia Capital领投的一轮...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1585.html)
+
+### 📌 ZCode 周末福利：无门槛免费领 3 亿 GLM-5.3-Flash Token
+- **发布日期**：`2026-09-11`
+- **内容摘要**：智谱旗下编程助手 ZCode 又开启周末福利了，新老用户均可无门槛领取 3 亿 GLM-5.3-Flash Token，文件上传和编程场景均可用。 智谱 ZCode 再次开启周末额度活动，直接送出 3 亿 Token 的免费体验额度。重点是门槛非常低——新用户、老用户、甚至已经订...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1577.html)
 
 <!-- POST-LIST:END -->
 
