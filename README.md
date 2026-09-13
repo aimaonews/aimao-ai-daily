@@ -24,12 +24,22 @@
 
 <!-- POST-LIST:START -->
 
-<!-- 最后更新时间: 2026-09-12 18:13:43 (UTC+8) -->
+<!-- 最后更新时间: 2026-09-13 00:18:10 (UTC+8) -->
 
-### 📌 Kimi K2.8 Preview 上线，Nvidia 拟投 Anthropic IPO — AI日报 2026-09-12
-- **发布日期**：`2026-09-12`
-- **内容摘要**：1 要闻 1.1 Kimi K2.8 Preview 全量上线 Kimi Code Kimi K2.8 Preview 现已全量上线 Kimi Code，综合性能接近 K3，全部会员档位开放最高 1M 上下文。 1.2 DeepSeek 调整 V4 Pro API 下线计划 9月...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1605.html)
+### 📌 Anthropic CEO 发文呼吁「放慢前沿」，提出三大 AI 安全策略
+- **发布日期**：`2026-09-13`
+- **内容摘要**：Anthropic CEO Dario Amodei 发布长文阐述「放慢前沿」（pace the frontier）的三大战略，并承诺 Anthropic 将单方面邀请第三方评估机构入驻公司进行安全监督。 我们最近看到越来越多 AI 研究人员对人工智能的危险发出严厉警告，甚至 O...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1617.html)
+
+### 📌 OpenAI CEO Sam Altman：2026年上市「不明智」
+- **发布日期**：`2026-09-13`
+- **内容摘要**：OpenAI CEO Sam Altman 在最近一次采访中表示，考虑到当前 AI 安全形势，2026 年上市是「不明智的」，暗示 IPO 可能推迟到 2027 年。 尽管 OpenAI 已经秘密提交了 IPO 申请，但 CEO Sam Altman 表示公司今年不会上市。 Al...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1616.html)
+
+### 📌 2026-09-12 AI日报：Kimi K2.8 Preview上线，Nvidia拟百亿美元投资Anthropic IPO
+- **发布日期**：`2026-09-13`
+- **内容摘要**：2026-09-12 · Markdown AI 早报 2026-09-12 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Kimi K2.8 Preview 全量上线 Kimi Code ↗ #1 DeepSeek 调整了 DeepSeek V4 Pro 的 API 下线计...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1609.html)
 
 ### 📌 AI 数据中心初创 Nscale 聘请前 OpenAI 二号人物加盟董事会，IPO 在即
 - **发布日期**：`2026-09-12`
@@ -65,16 +75,6 @@
 - **发布日期**：`2026-09-12`
 - **内容摘要**：Y Combinator CEO Garry Tan公开呼吁：美国开源AI实验室也应该被允许蒸馏前沿模型，当前政策「前后矛盾」。 当谈到中国AI实验室使用蒸馏技术从前沿模型制造者那里提取知识时，Y Combinator CEO Garry Tan有自己的看法——他希望美国开源AI...
 - **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1586.html)
-
-### 📌 Sequoia领投机器人训练数据公司Mecka AI，估值逼近5亿美元
-- **发布日期**：`2026-09-12`
-- **内容摘要**：Mecka AI，专注采集和分析人体运动数据以训练人形机器人的创业公司，正在由Sequoia Capital领投的一轮融资中接近5亿美元估值。 Mecka AI，一家专注于采集和分析人体运动数据以训练人形机器人及其他机器人的创业公司，正在由Sequoia Capital领投的一轮...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1585.html)
-
-### 📌 ZCode 周末福利：无门槛免费领 3 亿 GLM-5.3-Flash Token
-- **发布日期**：`2026-09-11`
-- **内容摘要**：智谱旗下编程助手 ZCode 又开启周末福利了，新老用户均可无门槛领取 3 亿 GLM-5.3-Flash Token，文件上传和编程场景均可用。 智谱 ZCode 再次开启周末额度活动，直接送出 3 亿 Token 的免费体验额度。重点是门槛非常低——新用户、老用户、甚至已经订...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1577.html)
 
 <!-- POST-LIST:END -->
 
