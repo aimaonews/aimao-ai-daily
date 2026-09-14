@@ -24,7 +24,12 @@
 
 <!-- POST-LIST:START -->
 
-<!-- 最后更新时间: 2026-09-14 00:19:07 (UTC+8) -->
+<!-- 最后更新时间: 2026-09-14 12:26:44 (UTC+8) -->
+
+### 📌 AutoClaw 积分加油站上线：每天登录白领 20,000 Credits，限时三天免费送
+- **发布日期**：`2026-09-14`
+- **内容摘要**：AutoClaw（Z.ai 旗下 AI Agent 客户端）推出限时积分加油站活动，9 月 14 日至 16 日每天登录即可白嫖 20,000 Credits，零门槛直接领。 AutoClaw 是 Z.ai（智谱 AI）推出的一款 AI Agent 桌面客户端，集成了办公自动化、...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1632.html)
 
 ### 📌 奥巴马敦促民主党将 AI 安全作为核心议程，呼吁制定明确保障计划
 - **发布日期**：`2026-09-14`
@@ -70,11 +75,6 @@
 - **发布日期**：`2026-09-13`
 - **内容摘要**：2026-09-12 · Markdown AI 早报 2026-09-12 视频版：哔哩哔哩 ｜ YouTube 概览 要闻 Kimi K2.8 Preview 全量上线 Kimi Code ↗ #1 DeepSeek 调整了 DeepSeek V4 Pro 的 API 下线计...
 - **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1609.html)
-
-### 📌 AI 数据中心初创 Nscale 聘请前 OpenAI 二号人物加盟董事会，IPO 在即
-- **发布日期**：`2026-09-12`
-- **内容摘要**：英国 AI 数据中心公司 Nscale 任命前 OpenAI 二号人物 Fidji Simo 加入董事会，为秋季 IPO 做准备。 Nscale 任命了前 OpenAI、Meta 和 Instacart 高管 Fidji Simo 加入董事会。 Simo 将与 Sheryl Sa...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1603.html)
 
 <!-- POST-LIST:END -->
 
