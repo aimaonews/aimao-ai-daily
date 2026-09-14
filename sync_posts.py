@@ -14,7 +14,15 @@ import html
 import re
 import urllib.request
 import subprocess
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
+
+# 北京时间时区 (UTC+8)
+TZ_BEIJING = timezone(timedelta(hours=8))
+
+
+def get_beijing_time() -> datetime:
+    """获取当前北京时间"""
+    return datetime.now(TZ_BEIJING)
 
 # ================= 配置项 =================
 # WordPress REST API 地址（支持通过环境变量覆盖）
@@ -56,6 +64,23 @@ def clean_html(raw_html: str) -> str:
 
 def fetch_latest_posts(api_url: str) -> list:
     """从 WordPress REST API 拉取最新文章"""
+    # 优先支持通过 WP_POSTS_FILE 或 WP_POSTS_JSON 环境变量传入数据
+    file_path = os.environ.get("WP_POSTS_FILE")
+    if file_path and os.path.exists(file_path):
+        print(f"[*] 从指定文章数据文件载入: {file_path}")
+        try:
+            with open(file_path, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"[!] 读取指定文章文件失败: {e}")
+
+    raw_json = os.environ.get("WP_POSTS_JSON")
+    if raw_json:
+        try:
+            return json.loads(raw_json)
+        except Exception as e:
+            print(f"[!] 解析 WP_POSTS_JSON 失败: {e}")
+
     print(f"[*] 正在拉取 WordPress 最新文章: {api_url}")
     req = urllib.request.Request(api_url, headers=HEADERS)
     try:
@@ -75,7 +100,7 @@ def fetch_latest_posts(api_url: str) -> list:
 def format_markdown(posts: list) -> str:
     """将文章格式化为符合 SEO 规范的精简 Markdown 列表"""
     lines = []
-    lines.append(f"<!-- 最后更新时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} (UTC+8) -->\n")
+    lines.append(f"<!-- 最后更新时间: {get_beijing_time().strftime('%Y-%m-%d %H:%M:%S')} (UTC+8) -->\n")
 
     for post in posts:
         title = html.unescape(post.get("title", {}).get("rendered", "未命名文章")).strip()
@@ -191,7 +216,7 @@ def git_commit_and_push(repo_dir: str):
         return
 
     print("[+] 检测到 README.md 变动，准备自动提交...")
-    now_str = datetime.now().strftime("%Y-%m-%d %H:%M")
+    now_str = get_beijing_time().strftime("%Y-%m-%d %H:%M")
 
     # 获取当前所在分支（兼容 main / master）
     branch_res = subprocess.run(["git", "branch", "--show-current"], capture_output=True, text=True)
