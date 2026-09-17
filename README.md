@@ -24,7 +24,12 @@
 
 <!-- POST-LIST:START -->
 
-<!-- 最后更新时间: 2026-09-17 08:17:02 (UTC+8) -->
+<!-- 最后更新时间: 2026-09-17 14:17:10 (UTC+8) -->
+
+### 📌 Union Alpha 匿名模型限时免费，262K 上下文支持多模态与 Agent
+- **发布日期**：`2026-09-17`
+- **内容摘要**：线索说明：本文信息主要来自社区用户分享，当前未获得匿名模型提供方的完整官方说明。模型身份、免费期限和服务稳定性可能变化，请不要提交敏感数据，以服务方最新页面和你的实际账户显示为准。 Union Alpha 是什么 NodeSeek 用户分享了一款名为 Union Alpha 的匿...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1684.html)
 
 ### 📌 Google Home开放MCP，AI智能体可直接控制智能家居
 - **发布日期**：`2026-09-17`
@@ -70,11 +75,6 @@
 - **发布日期**：`2026-09-16`
 - **内容摘要**：Meta推出WhatsApp Business Tools MCP，让Claude、Cursor、Codex或ChatGPT替企业完成账号配置。 在公布面向AI的新订阅方案的同时，Meta周二宣布，今后将允许用户选择的AI代理配置和管理WhatsApp Business消息服务。...
 - **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1666.html)
-
-### 📌 OpenAI、Anthropic与Google已秘密讨论AI安全数周
-- **发布日期**：`2026-09-16`
-- **内容摘要**：OpenAI透露，已与Anthropic和Google DeepMind围绕AI安全合作数周。 OpenAI全球政策负责人克里斯·莱恩周二告诉记者，公司数周以来一直在与竞争对手Anthropic和Google DeepMind合作讨论AI安全，彭博社率先报道了这一消息。据报道，莱...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1664.html)
 
 <!-- POST-LIST:END -->
 
