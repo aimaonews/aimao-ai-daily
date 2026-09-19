@@ -24,7 +24,12 @@
 
 <!-- POST-LIST:START -->
 
-<!-- 最后更新时间: 2026-09-19 08:17:11 (UTC+8) -->
+<!-- 最后更新时间: 2026-09-19 14:15:33 (UTC+8) -->
+
+### 📌 Qoder 限时免费使用 Qwen3.8-Flash，注册每天再领 100 Credits
+- **发布日期**：`2026-09-19`
+- **内容摘要**：Qoder 社区用户分享：Qwen3.8-Flash 开放限时免费使用，活动期间每天还能领取 100 个通用 Credits。 这次能免费用什么 根据社区帖子信息，QoderCN 正在限时开放 Qwen3.8-Flash 免费使用，活动时间为 2026 年 9 月 18 日 10...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1721.html)
 
 ### 📌 Google测试家庭AI管家CC：能管日历、购物清单和家务协作
 - **发布日期**：`2026-09-19`
@@ -70,11 +75,6 @@
 - **发布日期**：`2026-09-18`
 - **内容摘要**：Qoder CN 官宣：9 月 18 日至 9 月 30 日，所有个人用户可免费调用 Qwen3.8-Flash，连 Credits 为 0 的免费账号也能用。 活动内容 Qoder CN 面向新老个人用户开放 Qwen3.8-Flash 限时免费使用。活动期间，该模型的计费系数...
 - **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1702.html)
-
-### 📌 Google DeepMind成立研究院，推动AGI安全与治理讨论
-- **发布日期**：`2026-09-18`
-- **内容摘要**：Google 和 Google DeepMind 的研究人员周三成立了 DeepMind 研究院，旨在推进关于通用人工智能的讨论。该研究院列出的负责人包括 DeepMind 联合创始人 Shane Legg、Google 高管 James Manyika，以及 Google De...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1700.html)
 
 <!-- POST-LIST:END -->
 
