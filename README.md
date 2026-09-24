@@ -24,7 +24,37 @@
 
 <!-- POST-LIST:START -->
 
-<!-- 最后更新时间: 2026-09-24 20:16:10 (UTC+8) -->
+<!-- 最后更新时间: 2026-09-25 02:15:32 (UTC+8) -->
+
+### 📌 🎁 Claude Code 免费额度领取
+- **发布日期**：`2026-09-24`
+- **内容摘要**：🎁 Claude Code 免费额度领取https://www.nodeseek.com/post-946704-1NodeSeek🎁 Claude Code 免费额度领取Anthropic给现有ClaudePro/Max用户提供ClaudeCodeCloudSessions免费...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1881.html)
+
+### 📌 新豆包免费领取1个月会员方法
+- **发布日期**：`2026-09-24`
+- **内容摘要**：新豆包免费领取1个月会员方法https://www.nodeloc.com/t/topic/110689NodeLocHow to Get One Month of Free Membership for the New Doubao 来源：社区原文
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1871.html)
+
+### 📌 腾讯的LightVela新用户免费一个月
+- **发布日期**：`2026-09-24`
+- **内容摘要**：腾讯的LightVela新用户免费一个月https://www.nodeloc.com/t/topic/110691NodeLocTencent’s LightVela offers new users one month free 来源：社区原文
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1869.html)
+
+### 📌 Claude 免费领100$
+- **发布日期**：`2026-09-24`
+- **内容摘要**：Claude 免费领100$https://linux.do/t/topic/2947401LINUX DOClaude 免费领100$这真的能领吗，不是带毒的饵吗 Your $100 credit for cloud sessions is waiting 来源：社区原文
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1867.html)
+
+### 📌 免费白嫖k3?
+- **发布日期**：`2026-09-24`
+- **内容摘要**：免费白嫖k3?https://linux.do/t/topic/2947455LINUX DO免费白嫖k3?领鸡蛋啦！Mirasim限时活动 有k3与4.1模型，持续到国庆结束 😃 来源：社区原文
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1866.html)
+
+### 📌 Qoder qwen3.8flash免费用，赶紧30号结束
+- **发布日期**：`2026-09-24`
+- **内容摘要**：Qoder qwen3.8flash免费用，赶紧30号结束https://linux.do/t/topic/2947799LINUX DOQoder qwen3.8flash免费用，赶紧30号结束试了速度还挺快不像wrokbug还每天限次数。 来源：社区原文
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1853.html)
 
 ### 📌 2026-09-24 AI日报：Space Bunny Alpha现身，谷歌Gemini 3.8 TTS与OpenAI语音升级
 - **发布日期**：`2026-09-24`
@@ -45,36 +75,6 @@
 - **发布日期**：`2026-09-24`
 - **内容摘要**：Meta 在 Connect 大会上宣布了 Muse AI 智能体的一系列新功能，包括实时视频通话数字人、智能眼镜集成、Mac 电脑操控、以及通过交易抽佣的商业模式。 Meta 的个人 AI 智能体 Muse 推出仅几周时间，这家社交网络巨头就毫不迟疑地大力扩展这一可能是其迄今为...
 - **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1824.html)
-
-### 📌 Meta 推出一款拓麻歌子风格的可穿戴 AI 设备 Muse Charm
-- **发布日期**：`2026-09-24`
-- **内容摘要**：Meta 在 Connect 大会上发布了一款名为 Muse Charm 的钥匙链式 AI 可穿戴设备，内置实时语音和数字人交互功能，形似拓麻歌子，预计年底假期前上市。 AI 吊坠在科技行业已经快成了一个陈词滥调——像 Friend 这样的设备早已把"物理化的 AI"这个概念变成...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1822.html)
-
-### 📌 豆包桌面版免费送一个月会员，支持图片和视频生成
-- **发布日期**：`2026-09-24`
-- **内容摘要**：字节跳动旗下豆包推出桌面版福利：下载豆包桌面版应用，即可免费领取一个月会员体验，支持使用豆包 2.5 模型生成图片和视频。 字节跳动旗下的 AI 产品豆包（Doubao）最近推出了桌面版福利活动。用户只需下载豆包桌面版应用，即可免费领取一个月的会员服务。 会员体验版可以调用豆包...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1820.html)
-
-### 📌 Claude 订阅用户免费领取 $10 Claude Code 开发额度
-- **发布日期**：`2026-09-24`
-- **内容摘要**：Claude 现有订阅用户现在可以领取 $10 的 Claude Code 专用开发额度，用于 AI 编程。Pro 用户可通过 /claim-credit 领取。 Anthropic 为 Claude 订阅用户推出了一项新的 Claude Code 信用额度福利。现有订阅用户可以...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1818.html)
-
-### 📌 Ema获7700万美元融资：AI代理正蚕食企业软件与IT服务市场
-- **发布日期**：`2026-09-24`
-- **内容摘要**：Ema是一家利用AI代理团队自动化人力资源、IT和财务等企业流程的初创公司，近日完成7700万美元B轮融资，总融资达1.4亿美元，估值较2024年增长逾四倍。公司拥有超50家企业客户、逾100万活跃企业用户，客户包括谷歌、微软、普华永道等巨头。创始人称，AI正在蚕食传统企业软件和...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1816.html)
-
-### 📌 Enveda完成3.11亿美元E轮融资，AI从自然界发现新药推进临床试验
-- **发布日期**：`2026-09-24`
-- **内容摘要**：Enveda是一家利用AI在自然界中发现新药的生物技术初创公司，刚刚完成3.11亿美元的E轮融资，估值达20亿美元。该公司由前Recursion Pharmaceuticals早期员工Viswa Colluru于2019年创立，旨在通过AI技术加速从植物和微生物中发现药物的过程。...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1814.html)
-
-### 📌 ChatGPT移动端上线语音智能体功能，支持文档起草与邮件总结
-- **发布日期**：`2026-09-24`
-- **内容摘要**：OpenAI宣布为ChatGPT移动端带来基于语音的智能体功能，用户可通过语音指令触发文档起草、邮件总结等工作流。Plus和Pro用户可使用Work标签页完成多项任务，Free和Go用户则可使用插件和连接应用。 语音智能体登陆移动端 OpenAI于周三宣布，将基于语音的智能体功能...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1812.html)
 
 <!-- POST-LIST:END -->
 
