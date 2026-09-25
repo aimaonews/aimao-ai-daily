@@ -24,7 +24,27 @@
 
 <!-- POST-LIST:START -->
 
-<!-- 最后更新时间: 2026-09-25 08:18:46 (UTC+8) -->
+<!-- 最后更新时间: 2026-09-25 20:16:18 (UTC+8) -->
+
+### 📌 2026-09-25 AI日报：ChatGPT Pro Max 500美元、豆包再加30天、Gemini 4进展曝光
+- **发布日期**：`2026-09-25`
+- **内容摘要**：转载自：橘鸦Juya AI早报 概览 要闻 ChatGPT 或新增每月 500 美元的 Pro Max 订阅方案 ↗ #1 豆包再送30天免费订阅权益，电脑版用户可领取 ↗ #2 谷歌将 Colab 高级权益纳入 Google AI 订阅方案 ↗ #3 WorkBuddy上线微信...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1902.html)
+
+### 📌 Lightspeed 募资2.5亿美元印度新基金，全面押注早期AI创业
+- **发布日期**：`2026-09-25`
+- **内容摘要**：Lightspeed 瞄准2.5亿美元印度新基金，聚焦早期AI投资 硅谷顶级风投 Lightspeed 将新印度基金全部押注于AI领域，认为AI将在印度创造比互联网更大的价值。 Lightspeed 正在强化其在印度的AI战略，计划为一只新的早期基金募集2.5亿美元，押注该技术将...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1900.html)
+
+### 📌 Ando挑战Slack：为人类与AI代理打造原生协作平台，获2000万美元融资
+- **发布日期**：`2026-09-25`
+- **内容摘要**：Ando 推出面向人类与AI代理的团队消息平台，挑战Slack 当 AI 代理成为团队的一员而非"安装的应用"，协作会发生怎样的变化？创业公司 Ando 给出了自己的答案——一个让人类和 AI 代理像同事一样对话的消息平台。 2025年，当 Sara Du 帮助企业构建 MCP...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1898.html)
+
+### 📌 ElevenLabs CEO谈利润率与IPO时机：AI语音公司年收入6亿美元，估值220亿
+- **发布日期**：`2026-09-25`
+- **内容摘要**：ElevenLabs 打造AI语音层：年收入6亿美元，估值220亿 ElevenLabs 联合创始人兼CEO Mati Staniszewski 在多伦多 Nrth 大会上接受了 TechCrunch 的专访，讨论了AI语音行业的现状、客户告知义务、公司IPO时间表等话题。 El...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1896.html)
 
 ### 📌 PrismML将微型语言模型带入高通智能眼镜，本地AI推理再进一步
 - **发布日期**：`2026-09-25`
@@ -55,26 +75,6 @@
 - **发布日期**：`2026-09-24`
 - **内容摘要**：🎁 Claude Code 免费额度领取https://www.nodeseek.com/post-946704-1NodeSeek🎁 Claude Code 免费额度领取Anthropic给现有ClaudePro/Max用户提供ClaudeCodeCloudSessions免费...
 - **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1881.html)
-
-### 📌 新豆包免费领取1个月会员方法
-- **发布日期**：`2026-09-24`
-- **内容摘要**：新豆包免费领取1个月会员方法https://www.nodeloc.com/t/topic/110689NodeLocHow to Get One Month of Free Membership for the New Doubao 来源：社区原文
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1871.html)
-
-### 📌 腾讯的LightVela新用户免费一个月
-- **发布日期**：`2026-09-24`
-- **内容摘要**：腾讯的LightVela新用户免费一个月https://www.nodeloc.com/t/topic/110691NodeLocTencent’s LightVela offers new users one month free 来源：社区原文
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1869.html)
-
-### 📌 Claude 免费领100$
-- **发布日期**：`2026-09-24`
-- **内容摘要**：Claude 免费领100$https://linux.do/t/topic/2947401LINUX DOClaude 免费领100$这真的能领吗，不是带毒的饵吗 Your $100 credit for cloud sessions is waiting 来源：社区原文
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1867.html)
-
-### 📌 免费白嫖k3?
-- **发布日期**：`2026-09-24`
-- **内容摘要**：免费白嫖k3?https://linux.do/t/topic/2947455LINUX DO免费白嫖k3?领鸡蛋啦！Mirasim限时活动 有k3与4.1模型，持续到国庆结束 😃 来源：社区原文
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1866.html)
 
 <!-- POST-LIST:END -->
 
