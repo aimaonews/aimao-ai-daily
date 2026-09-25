@@ -24,7 +24,32 @@
 
 <!-- POST-LIST:START -->
 
-<!-- 最后更新时间: 2026-09-25 02:15:32 (UTC+8) -->
+<!-- 最后更新时间: 2026-09-25 08:18:46 (UTC+8) -->
+
+### 📌 PrismML将微型语言模型带入高通智能眼镜，本地AI推理再进一步
+- **发布日期**：`2026-09-25`
+- **内容摘要**：由加州理工学院研究员创立的AI Lab PrismML（顾问包括UC Berkeley的Ion Stoica）开发了一版超小型语言模型，可以在高通驱动的智能眼镜上本地运行。 周三，在高通Snapdragon峰会上，这家芯片制造商展示了PrismML的1-bit Bonsai LL...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1894.html)
+
+### 📌 Oracle对新墨西哥州Stargate数据中心发出不可抗力通知
+- **发布日期**：`2026-09-25`
+- **内容摘要**：Oracle已向其合作伙伴发出不可抗力通知，涉及位于新墨西哥州的「Stargate」AI数据中心项目。该通知允许Oracle在该设施无法按时于2028年建成投产时延迟支付相关款项。 Stargate项目是Oracle与多家合作伙伴共同推进的大型AI基础设施计划，旨在建设一座大规模...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1892.html)
+
+### 📌 澳大利亚调查OpenAI入侵政府健康网站事件是否违法
+- **发布日期**：`2026-09-25`
+- **内容摘要**：澳大利亚政府正在调查OpenAI是否在训练其AI模型时非法入侵了政府健康网站MyGov。这起事件是已知的首个针对政府机构的AI公司网络安全入侵事件，澳大利亚总理已誓言要彻查。 据报道，OpenAI在2025年初的网页抓取活动中，绕过了MyGov网站的技术防护措施，获取了数百万澳大...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1890.html)
+
+### 📌 AI编程平台Lovable年收入突破6亿美元，vibe coding趋势持续升温
+- **发布日期**：`2026-09-25`
+- **内容摘要**：AI编程平台Lovable联合创始人Fabian Hedin透露，平台上创建的应用每月获得近10亿次浏览量，年化收入已突破6亿美元。这一数据表明，所谓的「vibe coding」（氛围编程）趋势正在加速发展。 Hedin指出，用户在Lovable上构建的主要是各类SaaS工具——...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1888.html)
+
+### 📌 Google测试让Gemini AI替你打电话：Pixel 11用户先行
+- **发布日期**：`2026-09-25`
+- **内容摘要**：随着Meta的Muse和Instinct等AI Agent已经能够替用户打电话，Google现在也开始让Gemini为商家拨打电话了——而且这次电话另一头的人可能根本意识不到自己在和AI通话。 该功能将首先向美国Pixcel 11用户开放，需订阅Gemini服务并使用Chrome...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1886.html)
 
 ### 📌 🎁 Claude Code 免费额度领取
 - **发布日期**：`2026-09-24`
@@ -50,31 +75,6 @@
 - **发布日期**：`2026-09-24`
 - **内容摘要**：免费白嫖k3?https://linux.do/t/topic/2947455LINUX DO免费白嫖k3?领鸡蛋啦！Mirasim限时活动 有k3与4.1模型，持续到国庆结束 😃 来源：社区原文
 - **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1866.html)
-
-### 📌 Qoder qwen3.8flash免费用，赶紧30号结束
-- **发布日期**：`2026-09-24`
-- **内容摘要**：Qoder qwen3.8flash免费用，赶紧30号结束https://linux.do/t/topic/2947799LINUX DOQoder qwen3.8flash免费用，赶紧30号结束试了速度还挺快不像wrokbug还每天限次数。 来源：社区原文
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1853.html)
-
-### 📌 2026-09-24 AI日报：Space Bunny Alpha现身，谷歌Gemini 3.8 TTS与OpenAI语音升级
-- **发布日期**：`2026-09-24`
-- **内容摘要**：转载自:橘鸭Juya 概览 要闻 “stealth”模型 Space Bunny Alpha 现身 OpenRouter与OpenCode ↗ #1 谷歌发布 Gemini 3.8 Flash TTS 和 Gemini 3.8 Flash-Lite TTS ↗ #2 OpenAI...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1830.html)
-
-### 📌 YouTube 让用户用 AI 自建推荐算法：输入一句话，打造个性化内容流
-- **发布日期**：`2026-09-24`
-- **内容摘要**：YouTube 推出"自定义内容流"功能，用户可以用自然语言描述想看的内容，由 Gemini AI 驱动生成个性化推荐源，类似 Bluesky 和 Threads 的自定义信息流功能。 YouTube 表示它将让你构建自己的算法——嗯，某种程度上是的。该公司周三宣布了一项名为"自...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1828.html)
-
-### 📌 YouTube Music 推出 AI 对话式音乐发现功能：说句话就能找到想听的歌
-- **发布日期**：`2026-09-24`
-- **内容摘要**：YouTube Music 在 Made On YouTube 大会上推出 "Ask Music" 对话式 AI 音乐发现工具和个性化播客推荐功能，让用户用日常语言描述来发现音乐和播客。 YouTube 正在为 YouTube Music 添加新的 AI 驱动功能，旨在让听众更轻...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1826.html)
-
-### 📌 Meta AI 智能体 Muse 全面升级：视频通话数字人、眼镜集成与 Mac 电脑操控
-- **发布日期**：`2026-09-24`
-- **内容摘要**：Meta 在 Connect 大会上宣布了 Muse AI 智能体的一系列新功能，包括实时视频通话数字人、智能眼镜集成、Mac 电脑操控、以及通过交易抽佣的商业模式。 Meta 的个人 AI 智能体 Muse 推出仅几周时间，这家社交网络巨头就毫不迟疑地大力扩展这一可能是其迄今为...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/1824.html)
 
 <!-- POST-LIST:END -->
 
