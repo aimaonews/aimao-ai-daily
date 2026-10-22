@@ -24,31 +24,41 @@
 
 <!-- POST-LIST:START -->
 
-<!-- 最后更新时间: 2026-10-22 19:21:21 (UTC+8) -->
+<!-- 最后更新时间: 2026-10-23 00:48:48 (UTC+8) -->
+
+### 📌 智谱 ZCode 被曝向订阅用户送周重置卡，补偿回答质量下降
+- **发布日期**：`2026-10-22`
+- **内容摘要**：线索说明：本文信息主要来自社区用户分享/论坛帖子，当前未获得完整官方规则页确认。具体活动、额度、稳定性、风控要求，请以服务方最新页面和你的实际账户显示为准，务必自行判断风险。 有用户在社区反馈，智谱旗下 AI 编程产品 ZCode 因近期回答质量下降，向订阅用户补偿发放了周额度重...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/2240.html)
+
+### 📌 Qoder 1024 创造力集结开启：个人用户可领 1024 SOTA Credits，活动至 10 月 30 日
+- **发布日期**：`2026-10-22`
+- **内容摘要**：Qoder 1024 · 创造力集结活动今日开启：个人用户可领 1,024 SOTA Credits 见面礼，全站助力达标再解锁最高 4,096 Credits 补给包，额度用于 Sonus 模型，活动至 10 月 30 日 23:59。 活动内容 Qoder 在官方文档上线了「...
+- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/2238.html)
 
 ### 📌 Otter.ai 获 General Catalyst 3.2 亿美元融资，不稀释股权
 - **发布日期**：`2026-10-22`
-- **内容摘要**：会议记录工具 Otter.ai 宣布获 General Catalyst 客户价值基金 3.2 亿美元投资，资金不稀释股权，将用于企业增长和国际扩张。 Meeting notetaking tool Otter.ai announced on Tuesday that it ha...
+- **内容摘要**：会议记录工具 Otter.ai 宣布获 General Catalyst 客户价值基金 3.2 亿美元投资，资金不稀释股权，将用于企业增长和国际扩张。 会议记录工具 Otter.ai 于周二宣布，已从 General Catalyst 的客户价值基金 (CVF) 融资 3.2 亿...
 - **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/2236.html)
 
 ### 📌 前谷歌 CEO 施密特被曝持有 Anthropic 约 1% 股份，IPO 后或大赚 200 亿
 - **发布日期**：`2026-10-22`
-- **内容摘要**：彭博社报道，前谷歌 CEO 施密特持有 Anthropic 约 1% 股份，按 2 万亿美元估值计算可增值 200 亿美元。 Eric Schmidt’s fortune is about to get even bigger. The former Google CEO is...
+- **内容摘要**：彭博社报道，前谷歌 CEO 施密特持有 Anthropic 约 1% 股份，按 2 万亿美元估值计算可增值 200 亿美元。 据彭博社报道，前谷歌 CEO 埃里克·施密特 (Eric Schmidt) 的财富即将进一步膨胀。他在 2021 年向这家头部 AI 实验室的 A 轮投资...
 - **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/2234.html)
 
 ### 📌 SpaceX 第三季度收入 146 亿美元，AI 业务占比过半成盈利主力
 - **发布日期**：`2026-10-22`
-- **内容摘要**：SpaceX 第三季度收入 146 亿美元，AI 业务贡献过半并重回盈利，马斯克预测 2027 年底 ARR 将达 5000 亿至 1 万亿美元。 SpaceX’s data centers and Grok agents were more profitable than in...
+- **内容摘要**：SpaceX 第三季度收入 146 亿美元，AI 业务贡献过半并重回盈利，马斯克预测 2027 年底 ARR 将达 5000 亿至 1 万亿美元。 SpaceX 的数据中心和 Grok 智能体在第三季度的盈利能力超出了投资者预期，因为这家公司正在告别其航天公司的老本行，转向人工智...
 - **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/2232.html)
 
 ### 📌 泄露文件：Anthropic 云扩容受阻，AWS、谷歌、微软视其为竞争对手
 - **发布日期**：`2026-10-22`
-- **内容摘要**：泄露的 S-1 文件显示 Anthropic 在三大云厂商处拿不到足够算力，上半年净亏损 807 亿美元，正瞄准 11 月 IPO。 Anthropic is having trouble securing enough cloud capacity from AWS, Goog...
+- **内容摘要**：泄露的 S-1 文件显示 Anthropic 在三大云厂商处拿不到足够算力，上半年净亏损 807 亿美元，正瞄准 11 月 IPO。 据《华尔街日报》获得的泄露 S-1 文件显示，Anthropic 难以从 AWS、谷歌和微软处获得足够的云算力，这三家云厂商越来越把这家 Clau...
 - **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/2230.html)
 
 ### 📌 OpenAI 收购生物科技初创 Orchestra Bio，加码生命科学 AI 布局
 - **发布日期**：`2026-10-22`
-- **内容摘要**：OpenAI 宣布收购生物科技初创 Orchestra Bio，其团队与技术将并入面向生命科学研究的 AI 模型 Rosalind。 OpenAI on Tuesday acquired a four-year-old AI biotech software startup ca...
+- **内容摘要**：OpenAI 宣布收购生物科技初创 Orchestra Bio，其团队与技术将并入面向生命科学研究的 AI 模型 Rosalind。 OpenAI 于周二在其官网宣布，收购了一家成立四年的 AI 生物科技软件初创公司 Orchestra Bio。交易条款未披露，但据报道，截至 2...
 - **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/2228.html)
 
 ### 📌 红杉资本领投6600万美元，Blacksmith估值升至10亿美元
@@ -65,16 +75,6 @@
 - **发布日期**：`2026-10-22`
 - **内容摘要**：沃尔玛推出Agent Gateway及配套功能，允许获批AI智能体代客购物，并让用户管理授权范围、交易审批和消费上限。 沃尔玛周三宣布推出自家的Agent Gateway，用于管理交易，并推出多项面向AI智能体用户的新功能，显示这家零售商正积极拥抱智能体商务。就在不久前，沃尔玛的...
 - **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/2222.html)
-
-### 📌 Recursive发布可在笔记本运行的开源编程模型Flint
-- **发布日期**：`2026-10-22`
-- **内容摘要**：AI初创公司Recursive发布免费编程模型Flint，可在笔记本电脑本地运行；公司称该模型的研发过程大量由AI辅助完成。 成立于去年的AI初创公司Recursive，正在逐渐兑现其名字所代表的「递归」理念。这家公司试图构建能够自我改进的AI，并于周三发布了首个模型Flint。...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/2220.html)
-
-### 📌 Meta称Muse用户突破千万，AI购物成为热门用途
-- **发布日期**：`2026-10-22`
-- **内容摘要**：Meta称，AI应用Muse的用户已超过1000万，购物是其中一项重要用途；公司计划扩大智能体规模，并探索商业化。 Meta在周三举行的第三季度财报电话会上表示，其AI应用Muse的用户已超过1000万，这也印证了市场情报公司Sensor Tower本周早些时候公布的估算。 不过...
-- **官方链接**：👉 阅读完整内容/领取福利：[AI猫](https://www.aimao.today/2218.html)
 
 <!-- POST-LIST:END -->
 
